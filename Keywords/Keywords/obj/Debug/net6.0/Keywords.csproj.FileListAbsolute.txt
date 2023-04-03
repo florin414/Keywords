@@ -1,0 +1,15 @@
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\bin\Debug\net6.0\Keywords.exe
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\bin\Debug\net6.0\Keywords.deps.json
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\bin\Debug\net6.0\Keywords.runtimeconfig.json
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\bin\Debug\net6.0\Keywords.dll
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\bin\Debug\net6.0\Keywords.pdb
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.csproj.AssemblyReference.cache
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.AssemblyInfoInputs.cache
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.AssemblyInfo.cs
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.csproj.CoreCompileInputs.cache
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.dll
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\refint\Keywords.dll
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.pdb
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\Keywords.genruntimeconfig.cache
+C:\Users\florinmagadan\Desktop\New folder\Keywords\Keywords\obj\Debug\net6.0\ref\Keywords.dll
